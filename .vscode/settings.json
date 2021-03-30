@@ -2,5 +2,6 @@
     "python.linting.flake8Enabled": true,
     "python.linting.enabled": true,
     "python.pythonPath": "/usr/bin/python3",
-    "python.envFile": ".env"
+    "python.envFile": "recipe-app-api/.env",
+    "python.autoComplete.extraPaths": ["/usr/bin/python"],
 }
