@@ -3,5 +3,5 @@
     "python.linting.enabled": true,
     "python.pythonPath": "/usr/bin/python3",
     "python.envFile": "recipe-app-api/.env",
-    "python.autoComplete.extraPaths": ["/usr/bin/python"],
+    "python.autoComplete.extraPaths": ["./app"],
 }
